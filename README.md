@@ -1,5 +1,7 @@
 # 🎥 Streaming Video Demo  
 
+<img src="eduhub_print.png" />
+
 ## 📌 Introdução  
 
 Este projeto demonstra uma implementação básica de streaming de vídeo utilizando tecnologias HTML5. Ele fornece uma interface web simples para transmitir conteúdo de vídeo aos usuários.  
