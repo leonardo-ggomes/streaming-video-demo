@@ -1,6 +1,6 @@
 # 🎥 Streaming Video Demo  
 
-<img src="eduhub_print.png" />
+<img src="print.png" />
 
 ## 📌 Introdução  
 
